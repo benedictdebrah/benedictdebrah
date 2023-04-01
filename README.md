@@ -1,19 +1,25 @@
+## Benedict Opuni Debrah
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> I am Benedict Debrah </h1>
-<h3 align="center">I am into Data and Finance </h3>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kwamepuni/)](https://www.linkedin.com/in/kwamepuni/)
 
-Here's what I do:
+Hello there! I'm Benedict Opuni Debrah, Data Scientist and Data Analyst. I'm used to working with big data, Machine and Deep Learning models. I have keen eyes for details. I am also creative, dedicated and determined to find solutions.
+I am currently learning Django for  a personal project.
 
-- I make sense out of data
 
-- I occasionally write articles about topics i learn about on [Medium](https://medium.com/@kwamepuni)
 
-- I share my progress and dump my thoughts through my [tweets](https://twitter.com/OpuniDebrah)
+### Tech Skills
 
-- Ask me about about Python, Data and Machine Learning, FX Trading 
+-   Data Analytics with Python (Pandas, Numpy, and Matplotlib), Excel and SQL.
+-   Statistics with Scipy, Seaborn and Statsmodels.
+-   Machine Learning with Scikit-learn.
+-   Deep Learning with TensorFlow, Keras.
+-   Develop Data Products with Google Cloud Platform, ML Flow, Heroku and Streamlit.
+-   Data Visualization with Power BI.
   
-- I am currently learning Deep-learnig, Django and other intersting stuffs.
-
+ 
+### Others:
+- I occasionally write articles about topics i learn about on [Medium](https://medium.com/@kwamepuni)
+- I share my progress and dump my thoughts through my [tweets](https://twitter.com/OpuniDebrah)
 - You can send me an email at **paaopuni@gmail.com**
 
  #### 👨🏻‍💻 Languages and Tools <br />
@@ -33,8 +39,6 @@ Here's what I do:
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-
   
  
 ### Databases and Warehouses
