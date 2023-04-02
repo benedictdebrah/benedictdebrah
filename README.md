@@ -14,7 +14,7 @@ I am currently learning Django for  a personal project.
 -   Machine Learning with Scikit-learn.
 -   Deep Learning with TensorFlow, Keras.
 -   Develop Data Products with Google Cloud Platform, ML Flow, Heroku and Streamlit.
--   Data Visualization with Power BI.
+-   Data Visualization with Tableau.
   
  
 ### Others:
