@@ -20,7 +20,7 @@ I am currently learning Django for a personal project.
 ### Others:
 - I occasionally write articles about topics i learn about on [Medium](https://medium.com/@kwamepuni)
 - I share my progress and dump my thoughts through my [tweets](https://twitter.com/OpuniDebrah)
-- You can send me an email at **paaopuni@gmail.com**
+- You can send me an email at **benedictdebrah.o@gmail.com**
 
  #### 👨🏻‍💻 Languages and Tools <br />
  ### Data Science and Artificial Intelligence : <br />
