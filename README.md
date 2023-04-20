@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kwamepuni/)](https://www.linkedin.com/in/kwamepuni/)
 
 Hello there! I'm Benedict Opuni Debrah, Data Scientist and Data Analyst. I'm used to working with big data, Machine and Deep Learning models. I have keen eyes for details. I am also creative, dedicated and determined to find solutions.
-I am currently learning Django for a personal project.
+I am currently learning Django and FastAPI for a personal project.
 
 
 
