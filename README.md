@@ -18,7 +18,7 @@ I am currently learning FastAPI and practicing my skills for a personal project.
   
  
 ### Others:
-- I occasionally write articles about topics i learn about on [Medium](https://medium.com/@kwamepuni)
+- I occasionally write articles about topics i learn about on [Dev town Community](https://dev.to/benedictdebrah)
 - I share my progress and dump my thoughts through my [tweets](https://twitter.com/OpuniDebrah)
 - You can send me an email at **benedictdebrah.o@gmail.com**
 
