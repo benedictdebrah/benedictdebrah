@@ -1,5 +1,5 @@
 ## Benedict Opuni Debrah
-A Software Engineer (Data and ML), my passion lies in transforming data into meaningful solutions.
+A Data scientist , my expertise lies in transforming data into meaningful solutions.
 I specialize in data science and machine learning, and I am currently learning Golang for backend development.
 
 My aim? Building rock-solid systems that don't just meet expectations but exceed them.
