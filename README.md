@@ -1,3 +1,4 @@
+``` python
 class Bio:
     def __init__(self):
         self.past_role = "Data Scientist"
@@ -22,3 +23,5 @@ class Bio:
 
 
 print(Bio())
+
+```
