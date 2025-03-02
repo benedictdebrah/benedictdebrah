@@ -4,7 +4,7 @@ class Bio:
         self.past_role = "Data Scientist"
         self.current_role = "AI Engineer (for now)"
         self.future_focus = "Cloud & Data"
-        self.fun_fact = "I kill XAUUSD on the Daily"
+        self.fun_fact = "I kill XAUUSD, AUDJPY and USDCAD on the Daily (Passion)😩😂"
         self.email = "benedictdebrah.o@gmail.com"
 
     def __str__(self):
